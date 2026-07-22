@@ -1,0 +1,234 @@
+2  exit
+    3  help
+    4  firefox
+    5  opera
+    6  sudo ap t install chrome
+    7  exit
+    8  git --help
+    9  ls
+   10  git init
+   11  ls
+   12  git init
+   13  ls
+   14  ls -a
+   15  cd git
+   16  git init
+   17  ls
+   18  git status
+   19  ls
+   20  code
+   21  git --help
+   22  code
+   23  code .
+   24  ls
+   25  git init
+   26  ls
+   27  git status
+   28  ls
+   29  mkdir FrontEnd
+   30  cd FrontEnd/
+   31  code .
+   32  mkdir intro-html
+   33  cd intro-html/
+   34  code .
+   35  cd G:\Mi unidad\Bachillerato\BootCamp\TypeScript\Front_End
+   36  cd g:}
+   37  cd g:
+   38  cd c:\drivers
+   39  cd /drivers
+   40  cd /mnt/c
+   41  dir
+   42  cd /mnt/g
+   43  cd.
+   44  cd..
+   45  cd ..
+   46  ls
+   47  cd dev
+   48  ls
+   49  cd ..
+   50  cd home
+   51  ls
+   52  cd alex
+   53  ls
+   54  cd FrointEnd
+   55  cd FrontEnd
+   56  ls
+   57  cd intro-html
+   58  ls
+   59  git status
+   60  git commit
+   61  Omit --global
+   62  git config --global user.email "ortegalex@gmail.com"
+   63  git config --global user.name "Alex Ortega"
+   64  git status
+   65  git commit
+   66  git init
+   67  git status
+   68  git add index.html
+   69  git status
+   70  git add index.html
+   71  git status
+   72  git commit
+   73  git config --global user.email "ortegalex@gmail.com"
+   74  git commit
+   75  git config --global user.email "ortegalex@gmail.com"
+   76  git config --global user.main "Alex Ortega"
+   77  git status
+   78  git commit
+   79  git log
+   80  git status
+   81  git commit -m "Se agrega opcion 3 con valor 3"
+   82  git statua
+   83  git status
+   84  git comit
+   85  git commit
+   86  git commit -m "Se agrega otra opcion 4"
+   87  git log
+   88  git commit -m "Se agrega otra opcion 4"
+   89  git commit -a "Se agrega otra opcion 4"
+   90  git commit -m "Se agrega otra opcion 4"
+   91  git commit 
+   92  commit
+   93  git log}
+   94  git status
+   95  git log
+   96  git status
+   97  git add index.html
+   98  git status
+   99  git log
+  100  git commit
+  101  git commit -m " se agrega opcion 4"
+  102  git log
+  103  git diff
+  104  git log
+  105  git diff 02c552f3fb922ffc9a02f02652f846e1acdef241
+  106  git checkout 8b91413
+  107  git log
+  108  git checkout main
+  109  git checkout master
+  110  git switch --detach
+  111  git status
+  112  git add readme.md
+  113  git status
+  114  git commit -m "Se agrega readme.md"
+  115  git status
+  116  git log
+  117  git status
+  118  git add index.html
+  119  git commit -m "Se agrega opcion 5 con readme.md en el hyml
+  120  git commit -m "Se agrega opcion 5 con readme.md en el html"
+  121  git log
+  122  git status
+  123  git log
+  124  git status
+  125  git main
+  126  girt master
+  127  git master
+  128  git status
+  129  add index.html
+  130  git add index.html
+  131  git status
+  132  gi commit index.html
+  133  git commit index.html 
+  134  git status
+  135  git log
+  136  git comit -a
+  137  git comit add .
+  138  git commit -a -m "se agregas todo y se salta git add"
+  139  git stsatus
+  140  git status
+  141  git log
+  142  git branch
+  143  git status
+  144  git untage index.html
+  145  git restore --untage index.html
+  146  git restore untage index.html
+  147  git restore estage index.html
+  148  git restore stage index.html
+  149  git restore staged index.html
+  150  git status
+  151  git restore --staged intro.html
+  152  git restore --staged index.html
+  153  git status
+  154  git log
+  155  cls
+  156  ls -l
+  157  sudo help
+  158  ls -la
+  159  git status
+  160  git commit log
+  161  git log
+  162  git checkout d0c24135cc
+  163  git tag test1 9a22955c3 -m "Se hizo un tag"
+  164  git log
+  165  git checkou test1
+  166  git checkout test1
+  167  git checkout master
+  168  git status
+  169  git checkout main
+  170  git status
+  171  git add intro.html
+  172  git branch
+  173  git checkout master
+  174  git checkout main
+  175  git status
+  176  git checkoput master}
+  177  git checkoput master
+  178  git status
+  179  git add intro-html
+  180  cd intro-htmnl
+  181  cd intro-html
+  182  git status
+  183  git add .gitignore 
+  184  git status
+  185  git commit -m "agregue gitignore"
+  186  git status
+  187  git branch
+  188  git checkout -b mi-espejo
+  189  git status
+  190  git branch
+  191  git log
+  192  git checkout mi-espejo
+  193  git checkout master
+  194  git status
+  195  git log
+  196  git status
+  197  git checkout mi-espejo
+  198  git status
+  199  git add infor.md
+  200  git add info.md
+  201  git commit -m "Lo hice en Mi-espejo"
+  202  git checkout master
+  203  git checkout mi-espejo
+  204  git checkout master
+  205  git status
+  206  git merge mi-espejo
+  207  git log
+  208  gir branch
+  209  git branch
+  210  git branch -d mi-espejo
+  211  git branch
+  212  git branch checkout develop
+  213  git checkout develop
+  214  git branch
+  215  git checkout -b develop
+  216  git branch
+  217  ls -la
+  218  git remote add origin https://github.com/ortega-axel/intro-html.git
+  219  git remote -b
+  220  git remote -v
+  221  git branch -M main
+  222  git push -u origin main
+  223  git push
+  224  git remote -v
+  225  cd..
+  226  cd ..
+  227  history
+  228  rm -rf intro-html
+  229  ls -l
+  230  git clone https://github.com/ortega-axel/intro-html.git
+  231  ls -l
+  232  cd intro-html}
+  233  cd intro-html
+  234  ls
+  235  history
