@@ -232,5 +232,5 @@
   233  cd intro-html
   234  ls
   235  history
-
+este cambio es hecho en git hub (web)
   provando un cvambiogit statuy
